@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Md. Parvez Mosharrof</h1>
 <p align="center">
-  ECE Student | Electronics & IoT Enthusiast | Founder of Tech Bangla Academy
+  ECE Student | Electronics & IoT Enthusiast | Founder of Tech-Bangla Academy
 </p>
 
 ---
