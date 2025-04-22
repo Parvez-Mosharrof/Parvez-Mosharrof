@@ -5,24 +5,65 @@
 
 ---
 
-### About Me
-
-- 🎓 I’m currently studying **Electronics and Communication Engineering (ECE)**
-- 🚀 Currently working on: **IoT-based Advanced Farming System**  
-- 🧠 Founder of **Tech-Bangla Academy** – spreading knowledge in tech, electronics, and robotics  
-- 📜 Successfully completed a **Microsoft course from UVTR Academy**
-- 🌱 Learning: **Web development, cloud integration, and AI in IoT**
-- 💡 Interested in: Home automation, smart agriculture, and real-time monitoring
-- 📫 Contact me: **parvezmosharrof@email.com**
 
 ---
 
-### Tech Stack
+## About Me
 
-```bash
-Languages:    C, C++, Python, JavaScript, HTML, CSS
-IoT Boards:   ESP32, Arduino, NodeMCU
-Web Tech:     Firebase, REST API, Basic React
-Tools:        VS Code, Arduino IDE, PlatformIO
-Design:       Figma, Canva
-Others:       Git, GitHub, Tinkercad, Proteus
+- **Name:** Md. Parvez Mosharrof
+- **Institution:** Honours student in ECE (Electronics and Communication Engineering)
+- **Founder:** Tech-Bangla Academy (a platform for learning programming, electronics, and robotics)
+- **Focus Areas:**
+  - Programming
+  - Basic and Advanced Electronics
+  - Robotics
+  - IoT (Internet of Things)
+  - Web Development
+  - ICT-based Solutions
+
+---
+
+## Skills & Technologies
+
+- **Programming Languages:** C, C++, Python, JavaScript
+- **IoT Platforms:** ESP32, Arduino
+- **Web Technologies:** HTML, CSS, JavaScript, Node.js
+- **Tools:** Git, VS Code, Tinkercad, Fritzing
+- **Office Tools:** Microsoft Word, Excel, PowerPoint (Certified)
+
+---
+
+## Projects
+
+- **IoT-Based Smart Farming System** – Monitor and control irrigation, temperature, humidity, and soil moisture remotely.
+- **Home Automation System** – IoT solution for smart home appliances using a mobile app.
+- **Educational Content** – Creating tutorials and courses on programming, electronics, and robotics.
+
+---
+
+## Achievements
+
+- Certified in Basic Computer Literacy (Microsoft Word, Excel, PowerPoint) from UVTR Academy
+- Participated in multiple science fairs at the Upazila level and achieved recognition
+
+---
+
+## Goals
+
+- Develop impactful tech projects that solve real-life problems
+- Launch products through Tech-Bangla Academy
+- Continue learning and sharing knowledge in the field of electronics and technology
+
+---
+
+## Let's Connect
+
+- **LinkedIn:** [Coming Soon]
+- **Email:** [Coming Soon]
+- **Portfolio Website:** [Coming Soon]
+
+Thanks for visiting my profile!
+
+---
+
+*“Learning never exhausts the mind.” – Leonardo da Vinci*
