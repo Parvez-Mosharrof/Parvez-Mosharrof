@@ -58,9 +58,9 @@
 
 ## Let's Connect
 
-- **LinkedIn:** [Coming Soon]
-- **Email:** [Coming Soon]
-- **Portfolio Website:** [Coming Soon]
+- LinkedIn:www.linkedin.com/in/parvez-mosharrof
+- Email:parvezmosharrof0859@gmail.com
+
 
 Thanks for visiting my profile!
 
