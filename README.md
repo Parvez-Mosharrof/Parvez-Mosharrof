@@ -26,27 +26,28 @@
 ## Skills & Technologies
 
 - **Programming Languages:** C, C++, Python, JavaScript
-- **IoT Platforms:** ESP32, Arduino
-- **Web Technologies:** HTML, CSS, JavaScript, Node.js
-- **Tools:** Git, VS Code, Tinkercad, Fritzing
+- **IoT Platforms:** ESP32, Arduino 
+- **Web Technologies:** HTML, CSS, JavaScript
+- **Tools:** Git, VS Code, Tinkercad, Proteus, Arduino Ide, KME smart, Cadio, Blynk 
 - **Office Tools:** Microsoft Word, Excel, PowerPoint (Certified)
 
 ---
 
 ## Projects
 
-- **IoT-Based Smart Farming System** – Monitor and control irrigation, temperature, humidity, and soil moisture remotely.
-- **Home Automation System** – IoT solution for smart home appliances using a mobile app.
-- **Educational Content** – Creating tutorials and courses on programming, electronics, and robotics.
+ **IoT-Based Smart Farming System** – Monitor and control irrigation, temperature, humidity, and soil moisture remotely.
+ **Home Automation System** – IoT solution for smart home appliances using a mobile app.
+ **Home Automation System** – intelligent safety system (ISS).
+ **Educational Content** – Creating tutorials and courses on programming, electronics, and robotics.
 
----
+
 
 ## Achievements
 
 - Certified in Basic Computer Literacy (Microsoft Word, Excel, PowerPoint) from UVTR Academy
 - Participated in multiple science fairs at the Upazila level and achieved recognition
 
----
+
 
 ## Goals
 
@@ -54,7 +55,6 @@
 - Launch products through Tech-Bangla Academy
 - Continue learning and sharing knowledge in the field of electronics and technology
 
----
 
 ## Let's Connect
 
@@ -64,6 +64,6 @@
 
 Thanks for visiting my profile!
 
----
+
 
 *“Learning never exhausts the mind.” – Leonardo da Vinci*
