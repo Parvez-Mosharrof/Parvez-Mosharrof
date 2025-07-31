@@ -35,10 +35,10 @@
 
 ## Projects
 
- **IoT-Based Smart Farming System** – Monitor and control irrigation, temperature, humidity, and soil moisture remotely.
- **Home Automation System** – IoT solution for smart home appliances using a mobile app.
- **Home Automation System** – intelligent safety system (ISS).
- **Educational Content** – Creating tutorials and courses on programming, electronics, and robotics.
+-**IoT-Based Smart Farming System** – Monitor and control irrigation, temperature, humidity, and soil moisture remotely.
+-**Home Automation System** – IoT solution for smart home appliances using a mobile app.
+-**Home Automation System** – intelligent safety system (ISS).
+-**Educational Content** – Creating tutorials and courses on programming, electronics, and robotics.
 
 
 
